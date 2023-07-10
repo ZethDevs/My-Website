@@ -17,10 +17,10 @@ export default {
           id: 2,
           name: 'Mika Eirene',
          imageUrl: 'sahabatmuslim',
-         status: 'A website that has a responsive display to make it easier for Muslims to read the Quran from anywhere.',
-         tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/muslim-companion',
-          demo: 'https://sahabat-muslim.netlify.app/'
+         status: 'A Telegram bot for making anime-styled pictures and videos from your source.',
+         tech: 'TypeScript, NodeJS',
+          github: 'https://github.com/ZethDevs/Mika-Eirene',
+          demo: 'https://t.me/MikaEirene_bot'
        // },
        // {
        //   id: 3,
