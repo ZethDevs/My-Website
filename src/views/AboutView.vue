@@ -46,12 +46,12 @@ export default {
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png?f=webp',
           status: 'Intermediate'
         },
-        {
-          id: 8,
-          name: 'AlpineJS',
-          imageUrl: 'https://avatars.githubusercontent.com/u/59030169?s=200&v=4',
-          status: 'Beginner'
-        },
+      //  {
+        //  id: 8,
+         // name: 'AlpineJS',
+         // imageUrl: 'https://avatars.githubusercontent.com/u/59030169?s=200&v=4',
+         // status: 'Beginner'
+       // },
         {
           id: 9,
           name: 'NodeJS',
