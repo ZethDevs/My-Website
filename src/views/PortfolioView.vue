@@ -21,15 +21,15 @@ export default {
          tech: 'TypeScript, NodeJS',
           github: 'https://github.com/ZethDevs/Mika-Eirene',
           demo: 'https://t.me/MikaEirene_bot'
-       // },
-       // {
-       //   id: 3,
-        //  name: 'SISTEKDES',
-         // imageUrl: 'sistekdes',
-         // status: 'Sistem Informasi dan Teknologi Desa, a web application to assist village government work in administration, population data management, community services, etc.',
-         // tech: 'Laravel 9, Bootstrap',
-         // github: 'null',
-         // demo: 'null'
+        },
+        {
+          id: 3,
+          name: 'MyDramaKu',
+          imageUrl: 'sistekdes',
+          status: 'Sistem Informasi dan Teknologi Desa, a web application to assist village government work in administration, population data management, community services, etc.',
+          tech: 'Laravel 9, Bootstrap',
+          github: 'null',
+          demo: 'null'
        // },
        // {
         // id: 4,
