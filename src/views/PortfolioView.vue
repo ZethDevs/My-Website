@@ -29,7 +29,7 @@ export default {
           status: 'Website For Streaming Drakor base on blogger.',
           tech: 'HTML, CSS, JavaScript, Bootstrap',
           github: 'null',
-          demo: 'null'
+          demo: 'https://mydramakuu.blogspot.com/'
        // },
        // {
         // id: 4,
