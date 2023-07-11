@@ -26,8 +26,8 @@ export default {
           id: 3,
           name: 'MyDramaKu',
           imageUrl: 'sistekdes',
-          status: 'Sistem Informasi dan Teknologi Desa, a web application to assist village government work in administration, population data management, community services, etc.',
-          tech: 'Laravel 9, Bootstrap',
+          status: 'Website For Streaming Drakor base on blogger.',
+          tech: 'HTML, CSS, JavaScript, Bootstrap',
           github: 'null',
           demo: 'null'
        // },
