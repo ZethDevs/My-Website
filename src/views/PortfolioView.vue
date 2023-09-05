@@ -36,9 +36,9 @@ export default {
           name: 'Zeth Tiktok - Downloader',
           imageUrl: 'bumdesma',
           status: 'a website created to make it easier to download tiktok videos',
-          tech: 'Laravel 8, Bootstrap',
+          tech: 'HTML,JavaScript, Tailwind',
           github: 'null',
-          demo: 'null'
+          demo: 'https://zeth-tiktok-downloader.vercel.app/'
       //  },
        // {
          // id: 5,
