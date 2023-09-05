@@ -30,16 +30,16 @@ export default {
           tech: 'HTML, CSS, JavaScript, Bootstrap',
           github: 'null',
           demo: 'https://mydramakuu.blogspot.com/'
-       // },
-       // {
-        // id: 4,
-         // name: 'Bumdesma',
-         // imageUrl: 'bumdesma',
-         // status: 'a web application used by village-owned enterprises at the sub-district level to make it easier for them in terms of accounting that is equipped with a microfinance balance.',
-         // tech: 'Laravel 8, Bootstrap',
-         // github: 'null',
-         // demo: 'null'
-       // },
+        },
+        {
+         id: 4,
+          name: 'Bumdesma',
+          imageUrl: 'bumdesma',
+          status: 'a web application used by village-owned enterprises at the sub-district level to make it easier for them in terms of accounting that is equipped with a microfinance balance.',
+          tech: 'Laravel 8, Bootstrap',
+          github: 'null',
+          demo: 'null'
+      //  },
        // {
          // id: 5,
          // name: 'SP2SE',
